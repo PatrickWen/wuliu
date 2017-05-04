@@ -257,6 +257,13 @@
   width:65px;
   white-space:nowrap;
 }
+#u19_ann {
+  position:absolute;
+  left:206px;
+  top:291px;
+  width:1px;
+  height:1px;
+}
 #u21_img {
   position:absolute;
   left:0px;
@@ -1365,16 +1372,16 @@
 }
 #u123 {
   position:absolute;
-  left:568px;
+  left:466px;
   top:253px;
-  width:266px;
+  width:368px;
   height:25px;
 }
 #u123_input {
   position:absolute;
   left:0px;
   top:0px;
-  width:266px;
+  width:368px;
   height:25px;
   font-family:'ArialMT', 'Arial';
   font-weight:400;
@@ -2148,6 +2155,13 @@
 }
 #u185_input:disabled {
   color:grayText;
+}
+#u185_ann {
+  position:absolute;
+  left:278px;
+  top:184px;
+  width:1px;
+  height:1px;
 }
 #u186 {
   position:absolute;
