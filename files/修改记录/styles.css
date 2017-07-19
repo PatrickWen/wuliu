@@ -1025,7 +1025,6 @@
   left:2px;
   top:8px;
   width:123px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u93_img {
@@ -1048,9 +1047,8 @@
 #u94 {
   position:absolute;
   left:2px;
-  top:8px;
+  top:6px;
   width:465px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u95_img {
@@ -1072,7 +1070,6 @@
   left:2px;
   top:8px;
   width:128px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u97_img {
