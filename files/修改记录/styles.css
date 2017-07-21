@@ -1223,7 +1223,6 @@
   left:2px;
   top:8px;
   width:123px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u111_img {
@@ -1246,9 +1245,8 @@
 #u112 {
   position:absolute;
   left:2px;
-  top:8px;
+  top:6px;
   width:465px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u113_img {
@@ -1270,7 +1268,6 @@
   left:2px;
   top:8px;
   width:128px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u115_img {
